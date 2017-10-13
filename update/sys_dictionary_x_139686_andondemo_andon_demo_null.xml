@@ -53,16 +53,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-13 19:35:00</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e6f6d0a9db710300ce4f7fcfbf96190b</sys_id>
+        <sys_id>4dbd382ddbb10300ce4f7fcfbf9619d5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_139686_andondemo_andon_demo</sys_name>
         <sys_package display_value="AndonDemo" source="x_139686_andondemo">fd83e3d1db310300ce4f7fcfbf9619fd</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AndonDemo">fd83e3d1db310300ce4f7fcfbf9619fd</sys_scope>
-        <sys_update_name>sys_dictionary_x_139686_andondemo_andon_demo_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-10-13 19:35:00</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_139686_andondemo_andon_demo_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-10-13 22:24:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
