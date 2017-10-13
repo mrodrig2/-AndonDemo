@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Andon Demo" max_length="40" name="x_139686_andondemo_andon_demo" type="collection">
+        <element label="area" max_length="150" name="area" type="string"/>
+        <element label="Reported date" max_length="100" name="reported_date" type="glide_date_time"/>
+        <element display="true" label="Report number" max_length="250" name="report_number" type="string"/>
+        <element label="Resolved date" max_length="100" name="resolved_date" type="glide_date_time"/>
+        <element label="why1" max_length="200" name="why1" type="string"/>
+        <element label="why2" max_length="200" name="why2" type="string"/>
+        <element label="why3" max_length="200" name="why3" type="string"/>
+        <element label="why4" max_length="200" name="why4" type="string"/>
+        <element label="why5" max_length="200" name="why5" type="string"/>
+    </element>
+</database>
